@@ -1,9 +1,9 @@
-#Week 1
+# Week1
 
-##1. Web Cycle
+## 1. Web Cycle
 ![Alt text](./web_cycle.jpg)
 
-##2. Reponse, Request
+## 2. Reponse, Request
 
 |           | Reponse                |  Request                        |
 |-----------|------------------------|---------------------------------|
@@ -13,7 +13,7 @@
   - *200 : ok*
   - *404 : server not found error*
 
-##3. Method
+## 3. Method
 ---
 * GET
   - get resource from server
