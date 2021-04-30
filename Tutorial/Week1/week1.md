@@ -1,8 +1,8 @@
 # Week1
-
+---
 ## 1. Web Cycle
 ![Alt text](./web_cycle.jpg)
-
+---
 ## 2. Reponse, Request
 
 |           | Reponse                |  Request                        |
